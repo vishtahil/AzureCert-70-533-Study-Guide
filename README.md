@@ -4,13 +4,12 @@
 
 ###  **Design and implement Azure App Service Apps (15-20%)**
 
-1. **Deploy Web Apps**
-   * Define deployment slots
-   * Roll back deployments
-   * Implement pre- and postdeployment actions; 
-   * Create, configure, and deploy packages; 
-   * Create App Service plans; 
-   * Migrate Web Apps between App Service plans; 
+1. **Deploy Web Apps** 
+   * Define deployment slots,Roll back deployments ([LINK1](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-staged-publishing))
+   * Implement pre- and postdeployment actions ([LINK1](https://github.com/projectkudu/kudu/wiki/Post-Deployment-Action-Hooks))
+   * Create, configure, and deploy packages; ([LINK1](https://docs.microsoft.com/en-us/azure/vs-azure-tools-publishing-using-powershell-scripts))
+   * Create App Service plans ([LINK1](https://docs.microsoft.com/en-us/azure/app-service/azure-web-sites-web-hosting-plans-in-depth-overview)) 
+   * Migrate Web Apps between App Service plans ([LINK1](http://stackoverflow.com/questions/23685094/is-it-possible-to-move-a-website-to-a-different-web-hosting-plan)) 
    * Create a Web App within an App Service plan
 
 2. **Configure Web Apps**
@@ -32,3 +31,7 @@
    * Configure by metric; 
    * Change the size of an instance; 
    * Configure Traffic Manager
+
+*Miscellaneous*
+  
+  [Best Practises](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-best-practices)
