@@ -2,9 +2,6 @@
 
 ## Implementing Microsoft Azure Infrastructure Solutions - 70-533
 
-## Course Ouline
-----------------
----------------- 
 ## Objective Domain
 -------------------
 
