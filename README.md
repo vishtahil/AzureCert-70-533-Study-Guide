@@ -2,8 +2,6 @@
 
 ## Implementing Microsoft Azure Infrastructure Solutions - 70-533
 
-## **Objective Domain**
-
 ###  **Design and implement Azure App Service Apps (15-20%)**
 
 1. **Deploy Web Apps**
