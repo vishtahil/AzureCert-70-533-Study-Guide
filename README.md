@@ -15,7 +15,7 @@
 2. **Configure Web Apps**
    * Define and use app settings, connection strings, handlers, and virtual
      directories([LINK1](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-configure)); 
-   * Configure certificates and custom domains ([link1](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-configure-ssl-certificate),[link2](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-purchase-ssl-web-site)); 
+   * Configure certificates and custom domains ([LINK1](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-configure-ssl-certificate),[LINK2](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-purchase-ssl-web-site)); 
    * Configure SSL bindings and runtime configurations; 
    * Manage Web Apps by using Azure PowerShell and Xplat-CLI
 
