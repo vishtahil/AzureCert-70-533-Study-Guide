@@ -29,7 +29,7 @@
 4. **Configure Web Apps for scale and resilience**
    * Configure auto-scale using built-in and custom schedules([LINK1](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/insights-how-to-scale),[LINK2](https://docs.microsoft.com/en-us/azure/app-service/app-service-environment-auto-scale),[LINK3](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-scale-a-web-app-in-an-app-service-environment)); 
    * Configure by metric; 
-   * Change the size of an instance([LINK1](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-scale); 
+   * Change the size of an instance([LINK1](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-scale)); 
    * Configure Traffic Manager([LINK1](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-traffic-manager))
 
 *Miscellaneous*
