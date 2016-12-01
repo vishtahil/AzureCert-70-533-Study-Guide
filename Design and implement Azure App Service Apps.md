@@ -17,20 +17,20 @@
      directories([LINK1](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-configure)); 
    * Configure certificates and custom domains ([LINK1](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-configure-ssl-certificate),[LINK2](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-purchase-ssl-web-site)); 
    * Configure SSL bindings and runtime configurations; 
-   * Manage Web Apps by using Azure PowerShell and Xplat-CLI
+   * Manage Web Apps by using Azure PowerShell and Xplat-CLI ([LINK1](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-app-azure-resource-manager-xplat-cli),[LINK2](https://channel9.msdn.com/Series/Windows-Azure-Web-Sites-Tutorials/Managing-Windows-Azure-Web-Sites-with-PowerShell))
 
 3. **Configure diagnostics, monitoring, and analytics**
-   * Retrieve diagnostics data; view streaming logs; 
-   * Configure endpoint monitoring; 
-   * Configure alerts; configure diagnostics; 
-   * Use remote debugging;
+   * Retrieve diagnostics data; view streaming logs([LINK1](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-enable-diagnostic-log)); 
+   * Configure endpoint monitoring([LINK1](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-monitor),[LINK2](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-monitor-web-app-availability)); 
+   * Configure alerts; configure diagnostics([LINK1](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-alerts),[LINK2](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-enable-diagnostic-log)); 
+   * Use remote debugging([LINK1](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-dotnet-troubleshoot-visual-studio#a-nameremotedebugaremote-debugging-web-apps));
    * Monitor Web App resources
 
 4. **Configure Web Apps for scale and resilience**
-   * Configure auto-scale using built-in and custom schedules; 
+   * Configure auto-scale using built-in and custom schedules([LINK1](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/insights-how-to-scale),[LINK2](https://docs.microsoft.com/en-us/azure/app-service/app-service-environment-auto-scale),[LINK3](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-scale-a-web-app-in-an-app-service-environment)); 
    * Configure by metric; 
-   * Change the size of an instance; 
-   * Configure Traffic Manager
+   * Change the size of an instance([LINK1](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-scale); 
+   * Configure Traffic Manager([LINK1](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-traffic-manager))
 
 *Miscellaneous*
   
